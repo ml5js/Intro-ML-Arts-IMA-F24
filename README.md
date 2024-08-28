@@ -16,7 +16,7 @@ _This is a evolving document and is subject to change._
 
 ## Schedule
 
-### 1: [Introduction](00-introduction) (9/5)
+### 1: [Introduction](01-introduction) (9/5)
 
 ### 2: [Transfer Learning](02-transfer-learning) (9/12)
 
