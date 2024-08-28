@@ -1,6 +1,6 @@
 # Introduction to Machine Learning for the Arts - Fall 2024
 
-_This is a evolving document and is subject to change._
+_This is a evolving document and is subject to change (lots of change!)_
 
 ## Course Info
 
@@ -12,7 +12,7 @@ _This is a evolving document and is subject to change._
 ## Instructor Info
 
 - Daniel Shiffman
-- For contact info and office hours, please refer to internal google group information
+- For contact info and office hours, please refer to internal documents shared via e-mail.
 
 ## Schedule
 
