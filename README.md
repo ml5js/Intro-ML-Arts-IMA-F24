@@ -16,33 +16,33 @@ _This is a evolving document and is subject to change._
 
 ## Schedule
 
-### 1 [Introduction](00-introduction) (9/5)
+### 1: [Introduction](00-introduction) (9/5)
 
-### 2 [Transfer Learning](02-transfer-learning) (9/12)
+### 2: [Transfer Learning](02-transfer-learning) (9/12)
 
-### 3 [Pre-trained models 1: Body](03-body-models) (9/19)
+### 3: [Pre-trained models 1: Body](03-body-models) (9/19)
 
-### 4 [Pre-trained models 2: Face and Hand](04-face-and-hand-models) (9/26)
+### 4: [Pre-trained models 2: Face and Hand](04-face-and-hand-models) (9/26)
 
-### 5 Training a Neural Network 1: Data (10/3)
+### 5: Training a Neural Network 1: Data (10/3)
 
-### 6 Training a Neural Network 2: Models (10/10)
+### 6: Training a Neural Network 2: Models (10/10)
 
-### 7 Introduction to Transformers.js
+### 7: Introduction to Transformers.js
 
-### 8 Language Models (10/24)
+### 8: Language Models (10/24)
 
-### 9 Image Generation Models (10/31)
+### 9: Image Generation Models (10/31)
 
-### 10 Fine-Tuning Generative Models (10/31)
+### 10: Fine-Tuning Generative Models (10/31)
 
-### 11 Final Project Proposals Workshop (11/14)
+### 11: Final Project Proposals Workshop (11/14)
 
-### 12 Final Project Proposals Workshop (11/21)
+### 12: Final Project Proposals Workshop (11/21)
 
-### 13 Final Project Play Testing (12/05)
+### 13: Final Project Play Testing (12/05)
 
-### 14 Final Project Presentations (12/12)
+### 14: Final Project Presentations (12/12)
 
 ## Community Guidelines
 
