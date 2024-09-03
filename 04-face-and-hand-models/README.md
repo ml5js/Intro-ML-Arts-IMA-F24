@@ -41,7 +41,7 @@ SLIDES
 #### Playful
 
 - [Finger Talk](https://www.media.mit.edu/projects/finger-talk/overview/) by Future Sketches.
-- [Look At You](https://itp.alan.ooo/classes/ml4w/look-at-you) by Alan Ren.
+- [Look At You](https://by.alan.ooo/Project+Portfolio/Code/Look+At+You!!!) by Alan Ren & Kyrie Yang.
 - [Bubbles](https://www.instagram.com/p/C6S5BHPCGu3/) by Nahuel Gerth.
 - [Finger Numerals](https://www.instagram.com/p/CsBMOvUL4CP/) by Nahuel Gerth.
 

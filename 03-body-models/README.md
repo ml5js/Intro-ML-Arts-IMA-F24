@@ -72,7 +72,7 @@ SLIDES TO COME
 - [BodyPose - Drawing with Nose](https://editor.p5js.org/jackbdu/sketches/bUsDnrEbv) by Jack Du
 - [BodyPose - Trailing Effect](https://editor.p5js.org/jackbdu/sketches/eQTjLNK35) by Jack Du
 - [BodyPose - Cat or Dog](https://editor.p5js.org/jackbdu/sketches/26sLU0Ub-) by Jack Du
-- [Additional examples](https://github.com/yining1023/machine-learning-for-the-web/tree/main/week3-pose) from Yining Shi (_Note: these demos were created with an older version of ml5.js, refer to the [ml5.js Resources Wiki page](https://github.com/jackbdu/Intro-ML-Arts-IMA-Summer24/wiki/ml5.js-Resources) for more information._)
+- [Additional examples](https://github.com/yining1023/machine-learning-for-the-web/tree/main/week3-pose) from Yining Shi (_Note: these demos were created with an older version of ml5.js, refer to the [ml5.js Resources Wiki page](https://github.com/ml5js/Intro-ML-Arts-IMA-F24/wiki/ml5.js-Resources#ml5js-10-resources) for more information._)
 
 ### Technical Blog Posts
 
@@ -85,7 +85,7 @@ SLIDES TO COME
 
 ### Video Tutorials
 
-_Note: ml5.js tutorials below were taught using an older version of ml5.js, refer to the [ml5.js Resources Wiki page](https://github.com/jackbdu/Intro-ML-Arts-IMA-Summer24/wiki/ml5.js-Resources) for more information._
+_Note: ml5.js tutorials below were taught using an older version of ml5.js, refer to the [ml5.js Resources Wiki page](https://github.com/ml5js/Intro-ML-Arts-IMA-F24/wiki/ml5.js-Resources#ml5js-10-resources) for more information._
 
 - [ml5.js Pose Estimation with PoseNet - video tutorial](https://youtu.be/OIo-DIOkNVg?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y) by Daniel Shiffman
 - [ml5.js: Pose Classification with PoseNet and ml5.neuralNetwork() - video tutorial](https://www.youtube.com/watch?v=FYgYyq-xqAw&t=1197s) by Daniel Shiffman
