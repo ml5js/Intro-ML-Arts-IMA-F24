@@ -1,6 +1,6 @@
 # Introduction
 
-- Slides - COMING SOON
+- [Introduction Slides](https://docs.google.com/presentation/d/1SmQ__RbL81uQZLVJvSLe8VBZSFhi5Pzm27JhzMnd55w/edit?usp=sharing)
 - All Example Sketches - COMING SOON
 
 ## Objectives
