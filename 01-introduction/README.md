@@ -1,7 +1,7 @@
 # Introduction
 
-- Slides - COMING SOON
-- All Example Sketches - COMING SOON
+- [Introduction Slides](https://docs.google.com/presentation/d/1SmQ__RbL81uQZLVJvSLe8VBZSFhi5Pzm27JhzMnd55w/edit?usp=sharing)
+- [Example Sketches](https://editor.p5js.org/ima_ml/collections/TwoOZGAuw)
 
 ## Objectives
 
@@ -34,12 +34,10 @@
 
 ### Code Examples
 
-- [Image Classification - Single Image](https://editor.p5js.org/ml5/sketches/pjPr6XmPY)
-- [Image Classification - Drag and Drop](https://editor.p5js.org/jackbdu/sketches/LKbmAl6o_)
-- [Image Classification - Webcam](https://editor.p5js.org/ml5/sketches/K0sjaEO19)
-- [Image Classification - Webcam with Speech Output](https://editor.p5js.org/jackbdu/sketches/Zja0ej8tn)
-- [Image Classification with TensorFlow.js MobileNet - Single Image](https://editor.p5js.org/jackbdu/sketches/5DEdb8_E-)
-- [Image Classification with TensorFlow.js MobileNet - Webcam](https://editor.p5js.org/jackbdu/sketches/FP7PTjj_X)
+- [Image Classification - Single Image](https://editor.p5js.org/ima_ml/sketches/kt1tm9u8wL)
+- [Image Classification - Drag and Drop Image](https://editor.p5js.org/ima_ml/sketches/xlQCdIZGl)
+- [Image Classification - Video](https://editor.p5js.org/ima_ml/sketches/attFrN2bk)
+- [Image Classification - Video with Speech Output](https://editor.p5js.org/ima_ml/sketches/sjIgLgtig)
 
 ### p5.js review
 
@@ -48,7 +46,7 @@
 - [Code! Programming with p5.js](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) by Daniel Shiffman.
 - [Creative Coding for Absolute Beginners](https://www.youtube.com/playlist?list=PLUbmjnHkwarjjudjj2dclvClnL5ngpDze) by Jack B. Du.
 
-### ml5.js Video Tutorials (updated ones coming soon!)
+### ml5.js Video Tutorials (updated ones coming soon hopefully!)
 
 _Note: ml5.js tutorials below were taught using an older version of ml5.js, refer to the [ml5.js Resources Wiki page](https://github.com/ml5js/Intro-ML-Arts-IMA-F24/wiki/ml5.js-Resources#ml5js-10-resources) for more information._
 
