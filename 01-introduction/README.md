@@ -50,9 +50,9 @@
 
 _Note: ml5.js tutorials below were taught using an older version of ml5.js, refer to the [ml5.js Resources Wiki page](https://github.com/ml5js/Intro-ML-Arts-IMA-F24/wiki/ml5.js-Resources#ml5js-10-resources) for more information._
 
-- [A Beginner's Guide to Machine Learning with ml5.js - video tutorial](https://youtu.be/jmznx0Q1fP0?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y) by Daniel Shiffman.
-- [ml5.js: Image Classification with MobileNet - video tutorial](https://youtu.be/yNkAuWz5lnY?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y) by Daniel Shiffman.
-- [ml5.js: Webcam Image Classification - video tutorial](https://youtu.be/D9BoBSkLvFo?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y) by Daniel Shiffman.
+- [A Beginner's Guide to Machine Learning with ml5.js - video tutorial](https://thecodingtrain.com/tracks/ml5js-beginners-guide/ml5/0-introduction/1-introduction) by Daniel Shiffman.
+- [ml5.js: Image Classification with MobileNet - video tutorial](https://thecodingtrain.com/tracks/ml5js-beginners-guide/ml5/1-classification/1-image-classification) by Daniel Shiffman.
+- [ml5.js: Webcam Image Classification - video tutorial](https://thecodingtrain.com/tracks/ml5js-beginners-guide/ml5/1-classification/2-webcam-classification) by Daniel Shiffman.
 
 ## Supplemental Materials
 
@@ -62,7 +62,7 @@ _Note: ml5.js tutorials below were taught using an older version of ml5.js, refe
 - [Weird Intelligence](https://vimeo.com/304110435) by Kyle McDonald.
 - [A Brief History of Neural Nets and Deep Learning](http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning/) by Andrey Kurenkov.
 - [ImageNet: The Data That Transformed AI Research—and Possibly the World](https://qz.com/1034972/the-data-that-changed-the-direction-of-ai-research-and-possibly-the-world/) by Dave Gershgorn.
-- [How we teach computers to understand pictures](https://www.youtube.com/watch?v=40riCqvRoMs) by Fei-Fei Li (_Note: Fei-Fei Li is no longer at Google; she is currently Co-Director of the Stanford Human-Centered AI Institute_).
+- [How we teach computers to understand pictures](https://www.youtube.com/watch?v=40riCqvRoMs) by Fei-Fei Li
 
 ## Assignment 1
 
