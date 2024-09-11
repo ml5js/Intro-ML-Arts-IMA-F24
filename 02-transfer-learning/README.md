@@ -16,21 +16,14 @@ SLIDES COMING SOON
   - [Teachable Machine 2.0: Making AI easier for everyone](https://youtu.be/T2qQGqZxkD0) from Google.
   - [Image + Teachable Machine Reference](https://docs.ml5js.org/#/reference/image-classifier-tm) from ml5.js Documentation.
   - [Teachable Machine Community Repo](https://github.com/googlecreativelab/teachablemachine-community)
-- [ml5.soundClassifer Reference](https://docs.ml5js.org/#/reference/sound-classifier)
-  - [ml5.soundClassifier Source Code](https://github.com/ml5js/ml5-next-gen/tree/main/src/SoundClassifier)
+  - [ml5.soundClassifer Reference](https://docs.ml5js.org/#/reference/sound-classifier)
   - [TensorFlow.js Speech Command Recognizer Source Code](https://github.com/tensorflow/tfjs-models/tree/master/speech-commands)
-- [ml5.featureExtractor Archived Reference](https://archive-docs.ml5js.org/#/reference/feature-extractor)
-  - [ml5.featureExtractor Source Code](https://github.com/ml5js/ml5-library/tree/main/src/FeatureExtractor)
-- [ml5.KNNClassifier Archived Reference](https://archive-docs.ml5js.org/#/reference/knn-classifier)
-  - [ml5.KNNClassifier Source Code](https://github.com/ml5js/ml5-library/tree/main/src/KNNClassifier)
-  - [TensorFlow.js KNN Classifier Source Code](https://github.com/tensorflow/tfjs-models/tree/master/knn-classifier)
 
 ### Code Examples
 
 - [Image Classification with Teachable Machine and ml5.js](https://editor.p5js.org/ml5/sketches/VvGXajA36)
 - [Sound Classification with Teachable Machine and ml5.js](https://editor.p5js.org/ml5/sketches/mXeiNXSTU)
 - [Sound Classification - Speech Commands](https://editor.p5js.org/ml5/sketches/HUm7NYMW3)
-- [Webcam Image Classification with Teachable Machine Demo](https://jackbdu.com/Intro-ML-Arts-IMA-Summer24/02-transfer-learning/webcam-image-classification-with-teachable-machine/) hosted on GitHub. [ [Source Code](webcam-image-classification-with-teachable-machine) ]
 
 ### Related Projects
 
@@ -81,7 +74,7 @@ _Note: ml5.js tutorials below were taught using an older version of ml5.js, refe
 
 ## Assignment 2
 
-1. Read [Excavating AI: The Politics of Images in Machine Learning Training Sets](https://www.excavating.ai) by Kate Crawford and Trevor Paglen. Consider the following excerpt from the conclusion:
+1. Review [Excavating AI: The Politics of Images in Machine Learning Training Sets](https://www.excavating.ai) by Kate Crawford and Trevor Paglen. Consider the following excerpt from the conclusion:
 
 ![Ceci n’est pas une pipe.](https://upload.wikimedia.org/wikipedia/en/b/b9/MagrittePipe.jpg)
 
