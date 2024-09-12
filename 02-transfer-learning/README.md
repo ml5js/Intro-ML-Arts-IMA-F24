@@ -1,6 +1,7 @@
 # Transfer Learning
 
 - [Transfer Learning Slides](https://github.com/ml5js/Intro-ML-Arts-IMA-F24/tree/main/02-transfer-learning#assignment-2)
+- [ml5.js + Teachable Machine Video Example](https://editor.p5js.org/ima_ml/sketches/vOSSEZwGf)
 
 ## Objectives
 
@@ -52,7 +53,7 @@
 
 ## Supplemental Materials
 
-- [Local Development and Hosting Resources Wiki Page](https://github.com/jackbdu/Intro-ML-Arts-IMA-Summer24/wiki/Local-Development-and-Hosting-Resources) by Jack B. Du.
+- [Local Development and Hosting Resources Wiki Page](https://github.com/ml5js/Intro-ML-Arts-IMA-F24/wiki/Local-Development-and-Hosting-Resources) (originally by Jack B. Du.)
 - [But what _is_ a Neural Network?](https://youtu.be/aircAruvnKk) by 3Blue1Brown.
 - [How to Build a Teachable Machine with TensorFlow.js](https://observablehq.com/@nsthorat/how-to-build-a-teachable-machine-with-tensorflow-js) by Nikhil Thorat.
 
@@ -65,7 +66,7 @@ _Note: ml5.js tutorials below were taught using an older version of ml5.js, refe
 - [Teachable Machine video tutorials](https://www.youtube.com/playlist?list=PLJfHZtseuscuTQfodmFnbZ3rBgCWsRT9t) from Experiments with Google.
 - [Teachable Machine video tutorials](https://thecodingtrain.com/tracks/teachable-machine) by Daniel Shiffman.
 
-#### Transfer Learning with ml5.js
+#### Transfer Learning with ml5.js (currently not supported by ml5.js 1.0)
 
 - [ml5.js: Transfer Learning with Feature Extractor - video tutorial](https://youtu.be/kRpZ5OqUY6Y?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y) by Daniel Shiffman.
 - [ml5.js: Feature Extractor Classification - video tutorial](https://youtu.be/eeO-rWYFuG0?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y) by Daniel Shiffman.
