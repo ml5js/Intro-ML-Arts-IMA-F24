@@ -1,6 +1,6 @@
 # Transfer Learning
 
-SLIDES COMING SOON
+- [Transfer Learning Slides](https://github.com/ml5js/Intro-ML-Arts-IMA-F24/tree/main/02-transfer-learning#assignment-2)
 
 ## Objectives
 
