@@ -1,4 +1,4 @@
-# Introduction to Machine Learning for the Arts - Fall 2024
+ # Introduction to Machine Learning for the Arts - Fall 2024
 
 _This is a evolving document and is subject to change (lots of change!)_
 
@@ -98,7 +98,7 @@ Grades for the course will follow the standard A through F letter grading system
 
 There will be weekly assignments that are relevant to the class material. The primary elements of the assignments is documentation (written description, photos, screenshots, screen recording, code, and video all qualify based on the assignment) of your process. Each assignment is due by class time one week after they are assigned unless stated otherwise.
 
-It is expected that you will spend 6 to 8 hours a week on the class outside of class itself. This will include reviewing material, reading, watching video, completing assignments and so on. Please budget your time accordingly.
+It is expected that you will spend 3 to 6 hours a week on the class outside of class itself. This will include reviewing material, reading, watching video, completing assignments and so on. Please budget your time accordingly.
 
 Each assignment will be marked as complete (full credit), partially complete (half credit), or incomplete (no credit). To be complete, an assignment should meet the criteria specified in the syllabus including documentation. If significant portions are not attempted it may be marked partially complete. If an attempt isn’t made to meet the criteria specified it will be marked incomplete.
 
