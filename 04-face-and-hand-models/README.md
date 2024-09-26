@@ -1,6 +1,6 @@
 # Face and Hand Models
 
-SLIDES
+[Slides](https://docs.google.com/presentation/d/1BX3LxdvQgBufuJBTkSXBteR1bW12EFBferfbCVecND4/edit?usp=sharing)
 
 ## Objectives
 
