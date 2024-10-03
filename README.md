@@ -1,4 +1,4 @@
- # Introduction to Machine Learning for the Arts - Fall 2024
+# Introduction to Machine Learning for the Arts - Fall 2024
 
 _This is a evolving document and is subject to change (lots of change!)_
 
@@ -24,19 +24,19 @@ _This is a evolving document and is subject to change (lots of change!)_
 
 ### 4: [Pre-trained models 2: Face and Hand](04-face-and-hand-models) (9/26)
 
-### 5: Training a Neural Network 1: Data (10/3)
+### 5: [Training a Neural Network 1](05-neural-networks) (10/3)
 
-### 6: Training a Neural Network 2: Models (10/10)
+### 6: [Training a Neural Network 2](05-neural-networks) (10/10)
 
-### 7: Introduction to Transformers.js
+### 7: ml5.js project presentations (10/17)
 
-### 8: Language Models (10/24)
+### 8: Introduction to Transformers.js (10/24)
 
-### 9: Image Generation Models (10/31)
+### 9: Language Models (10/31)
 
-### 10: Fine-Tuning Generative Models (10/31)
+### 10: Image Generation Models (11/7)
 
-### 11: Final Project Proposals Workshop (11/14)
+### 11: Fine-Tuning Generative Models (11/14)
 
 ### 12: Final Project Proposals Workshop (11/21)
 
