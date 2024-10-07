@@ -48,11 +48,8 @@
 
 ### ml5.js Video Tutorials (updated ones coming soon hopefully!)
 
-_Note: ml5.js tutorials below were taught using an older version of ml5.js, refer to the [ml5.js Resources Wiki page](https://github.com/ml5js/Intro-ML-Arts-IMA-F24/wiki/ml5.js-Resources#ml5js-10-resources) for more information._
-
-- [A Beginner's Guide to Machine Learning with ml5.js - video tutorial](https://thecodingtrain.com/tracks/ml5js-beginners-guide/ml5/0-introduction/1-introduction) by Daniel Shiffman.
-- [ml5.js: Image Classification with MobileNet - video tutorial](https://thecodingtrain.com/tracks/ml5js-beginners-guide/ml5/1-classification/1-image-classification) by Daniel Shiffman.
-- [ml5.js: Webcam Image Classification - video tutorial](https://thecodingtrain.com/tracks/ml5js-beginners-guide/ml5/1-classification/2-webcam-classification) by Daniel Shiffman.
+- [A Beginner's Guide to Machine Learning with ml5.js - video tutorial](https://thecodingtrain.com/tracks/ml5js-beginners-guide/ml5/0-introduction/1-introduction) (_This video does not reference ml5.js 1.0, refer to the [ml5.js Resources Wiki page](https://github.com/ml5js/Intro-ML-Arts-IMA-F24/wiki/ml5.js-Resources#ml5js-10-resources) for more information._)
+- [ml5.js: Image Classification](https://thecodingtrain.com/tracks/ml5js-beginners-guide/ml5/1-classification/image-classification)
 
 ## Supplemental Materials
 
