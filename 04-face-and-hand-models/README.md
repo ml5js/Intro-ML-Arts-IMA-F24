@@ -47,6 +47,13 @@
 
 ### Code Examples
 
+#### In class examples
+
+- [HandPose - pinch painting](https://editor.p5js.org/ima_ml/sketches/v1x7MSdLW)
+- [FaceMesh - image texture](https://editor.p5js.org/ima_ml/sketches/wVbQau7li)
+- [FaceMesh - pixel colors](https://editor.p5js.org/ima_ml/sketches/hyxD1BVVn)
+- [FaceMesh - lip contours](https://editor.p5js.org/ima_ml/sketches/8xB4wpH16)
+
 #### Core Functionalities
 
 - [FaceMesh - Single Image](https://editor.p5js.org/ml5/sketches/lqQZrDJHF)
