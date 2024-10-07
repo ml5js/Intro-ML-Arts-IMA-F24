@@ -115,19 +115,19 @@
 - [Training a Webcam Image Classifier with Convolutional Layers](https://editor.p5js.org/jackbdu/sketches/7Y6VDvUO6)
 - [Doodle Classification with DoodleNet](https://editor.p5js.org/jackbdu/sketches/ts3fuRZGW) (model trained by [@yining1023](https://github.com/yining1023))
 
-## Assignment 5
+## ml5.js project (Due October 17)
 
 1. Watch [Machine Learning for Human Creative Practice](https://vimeo.com/287094397) by Dr. Rebecca Fiebrink at Eyeo 2018. Write a response to the following question posed by Dr. Fiebrink:
+
    - How can machine learning support people's existing creative practices? Expand people's creative capabilities?
-2. Create your own p5.js sketch that trains a model with real-time interactive data. This can be a prototype of a project idea or a simple exercise where you run this week's code examples with your own data. Here are some exercise suggestions:
 
-   - Try to invent more elegant and intuitive interaction for collecting real-time data beyond pressing keys.
-   - What other real-time inputs might you consider beyond mouse position, image pixels, or face/pose/hand tracking? Could you use real-time sensor data?
-   - What other real-time outputs might you consider beyond text? Could the output be sound/color modulation? Could there be multiple outputs like R, G, B values? Could the output be a physical computing device?
-   - Improve the the sketch we built in class:
-     - Can you add more classification categories?
-     - Can you create an interface for training and showing the results of model's prediction?
-     - Can you turn this into a regression model?
-   - Experiment with the inclusion of convolutional layers for image classification.
+2. Create a p5.js sketch with ml5.js using one or more of the models covered in this first half of the semester. Here are some ideas:
 
-3. Document your response to the readings as well as your p5.js sketch in a blog post and add a link to the post and your p5.js sketch on the [Assignment 5 Wiki page](https://github.com/jackbdu/Intro-ML-Arts-IMA-Summer24/wiki/Assignment-5). In your blog post, include visual documentation such as a recorded screen capture / video / GIFs of your sketch.
+   - Use hand, body, or face keypoints to create a simple movement-controlled game. Think about how different gestures could influence the gameplay or character actions.
+   - Design a musical instrument that responds to hand, body, or face keypoints, allowing gestures to control sound parameters like pitch, volume, or effects. Experiment with creating melodies or soundscapes.
+   - Build an augmented mirror by overlaying drawn p5.js elements on real-time video. Use segmentation or keypoint data to add visuals that respond to the person’s movements.
+   - Create an interactive painting tool controlled by hand, body, or face keypoints. Explore effects like trailing particles or dynamic brushes that change shape and color based on gestures.
+   - Use the output of one model as input to another. For instance, capture body or hand poses to create a custom classifier that controls an interaction. How could regression be used to modify continuous aspects, like color gradients or speed?
+   - Use transfer learning with Teachable Machine to train a custom classifier on your own dataset of images. Experiment with using image classification to trigger different interactions, visuals, or sounds in your sketch.
+
+3. Document your response to the readings as well as your p5.js sketch in a blog post and add a link to the post and your p5.js sketch on the [ml5.s Project Wiki page](https://github.com/ml5js/Intro-ML-Arts-IMA-F24/wiki/ml5.js-Project). In your blog post, include visual documentation such as a recorded screen capture / video / GIFs of your sketch.
