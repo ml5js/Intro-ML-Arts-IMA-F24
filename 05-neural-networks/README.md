@@ -115,19 +115,23 @@
 - [Training a Webcam Image Classifier with Convolutional Layers](https://editor.p5js.org/jackbdu/sketches/7Y6VDvUO6)
 - [Doodle Classification with DoodleNet](https://editor.p5js.org/jackbdu/sketches/ts3fuRZGW) (model trained by [@yining1023](https://github.com/yining1023))
 
-## ml5.js project (Due October 17)
+## ml5.js project
 
-1. Watch [Machine Learning for Human Creative Practice](https://vimeo.com/287094397) by Dr. Rebecca Fiebrink at Eyeo 2018. Write a response to the following question posed by Dr. Fiebrink:
+### Due Thursday, Oct 10
 
-   - How can machine learning support people's existing creative practices? Expand people's creative capabilities?
+1. Watch [Machine Learning for Human Creative Practice](https://vimeo.com/287094397) by Dr. Rebecca Fiebrink at Eyeo 2018. Reflect on the question: How can machine learning support and expand people’s creative practices?
 
-2. Create a p5.js sketch with ml5.js using one or more of the models covered in this first half of the semester. Here are some ideas:
+Write a response to this question and outline an initial idea for your project. Do you plan to build on a previous assignment or start something new? Post a link to your response the [ml5.js Project Wiki page](https://github.com/ml5js/Intro-ML-Arts-IMA-F24/wiki/ml5.js-Project).
 
-   - Use hand, body, or face keypoints to create a simple movement-controlled game. Think about how different gestures could influence the gameplay or character actions.
-   - Design a musical instrument that responds to hand, body, or face keypoints, allowing gestures to control sound parameters like pitch, volume, or effects. Experiment with creating melodies or soundscapes.
-   - Build an augmented mirror by overlaying drawn p5.js elements on real-time video. Use segmentation or keypoint data to add visuals that respond to the person’s movements.
-   - Create an interactive painting tool controlled by hand, body, or face keypoints. Explore effects like trailing particles or dynamic brushes that change shape and color based on gestures.
-   - Use the output of one model as input to another. For instance, capture body or hand poses to create a custom classifier that controls an interaction. How could regression be used to modify continuous aspects, like color gradients or speed?
-   - Use transfer learning with Teachable Machine to train a custom classifier on your own dataset of images. Experiment with using image classification to trigger different interactions, visuals, or sounds in your sketch.
+### Due Thursday, Oct 17
 
-3. Document your response to the readings as well as your p5.js sketch in a blog post and add a link to the post and your p5.js sketch on the [ml5.s Project Wiki page](https://github.com/ml5js/Intro-ML-Arts-IMA-F24/wiki/ml5.js-Project). In your blog post, include visual documentation such as a recorded screen capture / video / GIFs of your sketch.
+2. Develop a p5.js sketch with ml5.js, using one or more of the models we’ve covered in the first half of the semester. Here are some ideas to get you started:
+
+   - Create a simple movement-controlled game using hand, body, or face keypoints. Think about how different gestures might influence gameplay or character actions.
+   - Design a musical instrument that responds to hand, body, or face keypoints, allowing gestures to control sound parameters such as pitch, volume, or effects. Explore creating melodies or soundscapes.
+   - Build an augmented mirror or photo booth by overlaying p5.js elements on real-time video. Use segmentation or keypoint data to add visuals that respond to movements.
+   - Make an interactive painting tool controlled by hand, body, or face keypoints. Experiment with effects like trailing particles or dynamic brushes that change shape and color based on gestures.
+   - Chain models by using the output of one model as input to another. For example, capture body or hand poses to create a custom classifier that drives an interaction. How could regression be applied to modify continuous elements like color gradients or speed?
+   - Use transfer learning with Teachable Machine to train a custom image classifier on objects from your surroundings. Experiment with using these classifications to trigger interactions, visuals, or sounds in your sketch.
+
+3. Document the process of making your p5.js sketch on the [ml5.s Project Wiki page](https://github.com/ml5js/Intro-ML-Arts-IMA-F24/wiki/ml5.js-Project). In your blog post, include visual documentation such as a recorded screen capture / video / GIFs of your sketch.
