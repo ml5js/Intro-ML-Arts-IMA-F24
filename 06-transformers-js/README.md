@@ -44,6 +44,7 @@
 
 ## Code Examples
 
+- [Object Detection In Class](https://editor.p5js.org/ima_ml/sketches/8LsV70u0O)
 - [Simple Sentiment](https://editor.p5js.org/ima_ml/sketches/z9bNnHDh7)
 - [Object Detection](https://editor.p5js.org/ima_ml/sketches/zkf-rw0OE)
 - [Depth Estimation](https://editor.p5js.org/ima_ml/sketches/LtppKXu-W)
