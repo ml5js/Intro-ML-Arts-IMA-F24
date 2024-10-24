@@ -47,6 +47,7 @@
 - [Simple Sentiment](https://editor.p5js.org/ima_ml/sketches/z9bNnHDh7)
 - [Object Detection](https://editor.p5js.org/ima_ml/sketches/zkf-rw0OE)
 - [Depth Estimation](https://editor.p5js.org/ima_ml/sketches/LtppKXu-W)
+- [Text Generator](https://editor.p5js.org/ima_ml/sketches/ISIVwlcK9)
 
 ## Assignment
 
