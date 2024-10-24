@@ -30,7 +30,7 @@ _This is a evolving document and is subject to change (lots of change!)_
 
 ### 7: ml5.js project presentations (10/17)
 
-### 8: Introduction to Transformers.js (10/24)
+### 8: [Introduction to Transformers.js](06-transformers-js) (10/24)
 
 ### 9: Language Models (10/31)
 
