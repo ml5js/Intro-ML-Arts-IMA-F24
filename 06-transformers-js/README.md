@@ -25,13 +25,15 @@
 - ⚙️ [WebGPU Overview](https://developer.mozilla.org/en-US/docs/Web/API/WebGPU_API)
 - 🚂 [Videos on promises, async/await, and try/catch](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bKLPQvPRNNE65kBL62mVfx)
 - 🚂 [Video on arrow functions](https://youtu.be/mrYMzpbFz18)
+- Object / Array Destructuring
+- let vs. const
 
 ## p5.js DOM Basics and Resources
 
 - 🌐 [Beyond the Canvas, p5.js tutorial](https://github.com/processing/p5.js/wiki/Beyond-the-canvas)
-- 📺 [What is HTML? (video)](https://youtu.be/URSH0QpxKo8?list=PLRqwX-V7Uu6bI1SlcCRfLH79HZrFAtBvX)
-- 📺 [What is CSS? (video)](https://youtu.be/zGL8q8iQSQw?list=PLRqwX-V7Uu6bI1SlcCRfLH79HZrFAtBvX)
-- 📺 [Creating DOM Elements with p5.js (video)](https://youtu.be/lAtoaRz78I4?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
+- 🚂 [What is HTML? (video)](https://youtu.be/URSH0QpxKo8?list=PLRqwX-V7Uu6bI1SlcCRfLH79HZrFAtBvX)
+- 🚂 [What is CSS? (video)](https://youtu.be/zGL8q8iQSQw?list=PLRqwX-V7Uu6bI1SlcCRfLH79HZrFAtBvX)
+- 🚂 [Creating DOM Elements with p5.js (video)](https://youtu.be/lAtoaRz78I4?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
 - 🎨 [CSS Property Reference](http://www.blooberry.com/indexdot/css/propindex/all.htm)
 
 ## Example Projects and Demos
@@ -41,7 +43,8 @@
 
 ## Code Examples
 
-- 📝 [Hello World Transformers.js](https://editor.p5js.org/ima_ml/sketches/z9bNnHDh7)
+- [Simple Sentiment Transformers.js](https://editor.p5js.org/ima_ml/sketches/z9bNnHDh7)
+- [Object Detection](https://editor.p5js.org/ima_ml/sketches/zkf-rw0OE)
 
 ## Assignment
 
