@@ -25,6 +25,7 @@
 - ⚙️ [WebGPU Overview](https://developer.mozilla.org/en-US/docs/Web/API/WebGPU_API)
 - 🚂 [Videos on promises, async/await, and try/catch](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bKLPQvPRNNE65kBL62mVfx)
 - 🚂 [Video on arrow functions](https://youtu.be/mrYMzpbFz18)
+- [toDataURL()](https://developer.mozilla.org/en-US/docs/Web/API/HTMLCanvasElement/toDataURL)
 - Object / Array Destructuring
 - let vs. const
 
@@ -43,8 +44,9 @@
 
 ## Code Examples
 
-- [Simple Sentiment Transformers.js](https://editor.p5js.org/ima_ml/sketches/z9bNnHDh7)
+- [Simple Sentiment](https://editor.p5js.org/ima_ml/sketches/z9bNnHDh7)
 - [Object Detection](https://editor.p5js.org/ima_ml/sketches/zkf-rw0OE)
+- [Depth Estimation](https://editor.p5js.org/ima_ml/sketches/LtppKXu-W)
 
 ## Assignment
 
