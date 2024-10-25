@@ -28,9 +28,9 @@ _This is a evolving document and is subject to change (lots of change!)_
 
 ### 6: [Training a Neural Network 2](05-neural-networks) (10/10)
 
-### 7: ml5.js project presentations (10/17)
+### 7: [ml5.js project presentations](https://github.com/ml5js/Intro-ML-Arts-IMA-F24/wiki/ml5.js-Project-2) (10/17)
 
-### 8: Introduction to Transformers.js (10/24)
+### 8: [Introduction to Transformers.js](06-transformers-js) (10/24)
 
 ### 9: Language Models (10/31)
 
