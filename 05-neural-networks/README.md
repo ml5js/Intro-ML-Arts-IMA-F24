@@ -134,7 +134,7 @@ Write a response to this question and outline an initial idea for your project. 
    - Chain models by using the output of one model as input to another with `ml5.neuralNetwork()`. For example, capture body or hand poses to create a custom classifier that drives an interaction. How could regression be applied to modify continuous elements like color gradients or speed?
    - Use transfer learning with Teachable Machine to train a custom image classifier on objects from your surroundings. Experiment with using these classifications to trigger interactions, visuals, or sounds in your sketch.
 
-3. Document your project in a blog post and come prepared to share your work for ~5 minutes. You are not required to have a slide deck, however, you might find slides useful to help you plan and structure your demo. Add a link to your documentation to the [ml5.js Project Step 2 Wiki page](https://github.com/ml5js/Intro-ML-Arts-IMA-F24/wiki/ml5.js-Project-2). 
+3. Document your project in a blog post and come prepared to share your work for ~5 minutes. You are not required to have a slide deck, however, you might find slides useful to help you plan and structure your demo. Add a link to your documentation to the [ml5.js Project Step 2 Wiki page](https://github.com/ml5js/Intro-ML-Arts-IMA-F24/wiki/ml5.js-Project-2).
 
 Consider including:
 
