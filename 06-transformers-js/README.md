@@ -25,9 +25,9 @@
 - ⚙️ [WebGPU Overview](https://developer.mozilla.org/en-US/docs/Web/API/WebGPU_API)
 - 🚂 [Videos on promises, async/await, and try/catch](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bKLPQvPRNNE65kBL62mVfx)
 - 🚂 [Video on arrow functions](https://youtu.be/mrYMzpbFz18)
-- [toDataURL()](https://developer.mozilla.org/en-US/docs/Web/API/HTMLCanvasElement/toDataURL)
-- Object / Array Destructuring
-- let vs. const
+- 📚 [toDataURL()](https://developer.mozilla.org/en-US/docs/Web/API/HTMLCanvasElement/toDataURL)
+- 📚 [Object and Array Destructuring](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
+- 🚂 [let vs. const](https://youtu.be/2iLVFyYwyRA)
 
 ## p5.js DOM Basics and Resources
 
@@ -42,7 +42,7 @@
 - 🎮 [Doodle Dash with Transformers.js](https://huggingface.co/blog/ml-web-games)
 - 🖼️ [NYU Shanghai DURF research project on Image Segmentation with transformers.js](https://github.com/ml5js/ml5-extra-imagesegmentation)
 
-## Code Examples
+### Code Examples
 
 - [Object Detection - Image](https://editor.p5js.org/ima_ml/sketches/LtppKXu-W)
 - [Object Detection - Video](https://editor.p5js.org/ima_ml/sketches/8LsV70u0O)
@@ -55,13 +55,21 @@
 
 For this week's assignment:
 
-1. Choose any model available in Transformers.js, such as:
+1. Choose any model available in Transformers.js and create a p5.js sketch using it. You can choose from:
 
    - **Object Detection**: 🕵️ Detect objects in an image.
-   - **Image Segmentation**: ✂️ Segments an image into parts.
+   - **Image Segmentation**: ✂️ Segment an image into parts.
    - **Text Generation**: ✍️ Generate text based on a user prompt.
-   - **Whisper (Speech-to-Text)**: 🎙️ Transcribes audio from a file or real-time microphone.
+   - **Whisper (Speech-to-Text)**: 🎙️ Transcribe audio from a file or real-time microphone.
+   - **Depth Estimation**: 📏 Create a depth map from an image or video feed.
 
-2. Create a p5.js sketch that integrates the chosen model and experiment with interaction.
+2. Compare and Contrast:
+
+   - Compare your experience of using Transformers.js with ml5.js. Reflect on differences in ease of use, performance, model variety, and integration with p5.js.
 
 3. Document your project in a blog post and add a link to your documentation to the [Assignment Wiki page](https://github.com/ml5js/Intro-ML-Arts-IMA-F24/wiki/Assignment-5).
+
+## Additional Suggestions:
+
+- **Include Visual Documents**: Add more screenshots or GIFs of the sketches.
+- **Add a Troubleshooting Section**: What errors did you encounter with Transformers.js? (e.g., WebGPU compatibility, model loading issues), document these!
