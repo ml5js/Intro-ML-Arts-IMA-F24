@@ -32,7 +32,7 @@ _This is a evolving document and is subject to change (lots of change!)_
 
 ### 8: [Introduction to Transformers.js](06-transformers-js) (10/24)
 
-### 9: Language Models (10/31)
+### 9: [Language Models](07-llms) (10/31)
 
 ### 10: Image Generation Models (11/7)
 
