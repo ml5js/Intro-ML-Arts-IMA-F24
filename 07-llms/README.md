@@ -2,6 +2,12 @@
 
 - [LLM / transformer slides](https://docs.google.com/presentation/d/1uGS4w_UumzQAoq03S-sc9Nn7_hBaRNbQJf1G2SNXooU/edit?usp=sharing)
 
+## Markov Chains
+
+- 💻 [Weighted Selection p5.js example](https://editor.p5js.org/a2zitp/sketches/un8B-P4jg) (with temperature!) along with 🚂 [Weighted Selection Algorithm video](https://youtu.be/ETphJASzYes)
+- 📚 [How to Generate Text Hugging Face blog post](https://huggingface.co/blog/how-to-generate) (covers temperature, top_p, and top_k)
+- 📕 [Markov Chains](http://setosa.io/blog/2014/07/26/markov-chains/) by Victor Powell and Lewis Lehe
+
 ## Sequential Data and Recurrent Neural Networks
 
 - 📚 [The Unreasonable Effectiveness of RNNs](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
@@ -40,6 +46,11 @@
 
 ## Code Examples and Implementations
 
+### Markov chains
+
+- 🚂 [Markov Chain Coding Challenge video + code example](https://thecodingtrain.com/challenges/42-markov-chain-name-generator)
+- 💻 [Markov Chain p5.js code examples](https://editor.p5js.org/a2zitp/collections/WEXEPRHuE)
+
 ### Replicate
 
 _Examples will be shared over email due to use of ITP proxy server._
@@ -48,6 +59,8 @@ _Examples will be shared over email due to use of ITP proxy server._
 - 💬 ChatBot Conversations with Llama via Replicate. This follows the specification in the [Llama 3 Model Card](https://www.llama.com/docs/model-cards-and-prompt-formats/meta-llama-3/).
 
 ### Ollama
+
+_These examples require working with p5.js locally on your computer and outside of the web editor. Some resources for doing so can be found in [my workflow video series](https://thecodingtrain.com/tracks/2018-workflow)._
 
 - 🦙 [Ollama: Run LLMs locally](https://ollama.ai/)
 - 💻 [Ollama with JavaScript](https://github.com/Programming-from-A-to-Z/Ollama-Examples)
@@ -59,11 +72,9 @@ _Examples will be shared over email due to use of ITP proxy server._
 
 ## Assignment
 
-- Read [Language models can only write ransom notes](https://posts.decontextualize.com/language-models-ransom-notes/) by Allison Parrish and review the [The Foundation Model Transparency Index](https://crfm.stanford.edu/fmti/May-2024/index.html). What questions arise for you about using LLMs in your work at ITP?
-- Experiment with prompting a large language model in some way other than a provided interface (e.g. ChatGPT) and document the results in a blog post. Consider how working with an LLM compares to generating text from the other methods including but not limited to markov chains and context free grammars. Here are some options:
-  - Run [any of the code examples above](#code-examples-and-implementations) Try adjusting the prompts, interaction, or visual design.
-  - Try running Llama locally with [Ollama](https://ollama.ai/). Compare and contrast different models.
-
-## Add your assignment below via Pull Request
-
-_(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. For NYU blogs, privacy options are covered in the [NYU Wordpress Knowledge Base](https://wp.nyu.edu/knowledge/). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
+- Read [Language models can only write ransom notes](https://posts.decontextualize.com/language-models-ransom-notes/) by Allison Parrish and review the [The Foundation Model Transparency Index](https://crfm.stanford.edu/fmti/May-2024/index.html).
+- Experiment with prompting a language model in some way other than a provided interface (e.g., ChatGPT) and document the results in a blog post. You can use [any of the code examples above](#code-examples-and-implementations) and/or try a variety of LLMs locally with [ollama](https://ollama.ai/). Reflect on one or more of the following questions:
+  - How does the concept of LLMs as “ransom notes” influence your perception of using these models creatively?
+  - How does the hidden origin of the text that LLMs generate affect your sense of authorship or originality in your creative work?
+  - How does the metaphor of "collage" used to describe LLMs align with or differ from your creative process?
+  - How would you compare working with an LLM to other forms of text generation, such as using a Markov chain?
