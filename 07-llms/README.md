@@ -55,8 +55,8 @@
 
 _Examples will be shared over email due to use of ITP proxy server._
 
-- 🎨 Prompting Replicate text/image
-- 💬 ChatBot Conversations with Llama via Replicate. This follows the specification in the [Llama 3 Model Card](https://www.llama.com/docs/model-cards-and-prompt-formats/meta-llama-3/).
+- 🎨 Single Prompt + Reply to Llama hosted on Replicate
+- 💬 ChatBot Conversations Llama hosted on Replicate. This follows the specification in the [Llama 3 Model Card](https://www.llama.com/docs/model-cards-and-prompt-formats/meta-llama-3/).
 
 ### Ollama
 
