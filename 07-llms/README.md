@@ -78,3 +78,4 @@ _These examples require working with p5.js locally on your computer and outside 
   - How does the hidden origin of the text that LLMs generate affect your sense of authorship or originality in your creative work?
   - How does the metaphor of "collage" used to describe LLMs align with or differ from your creative process?
   - How would you compare working with an LLM to other forms of text generation, such as using a Markov chain?
+- Document your experminents in a blog post and add a link to the [Assignment Wiki page](https://github.com/ml5js/Intro-ML-Arts-IMA-F24/wiki/Assignment-6). Remember to include visual documentation (screenshots, GIFs, etc)

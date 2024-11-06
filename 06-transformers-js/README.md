@@ -67,4 +67,4 @@ For this week's assignment:
 
    - Compare your experience of using Transformers.js with ml5.js. Reflect on differences in ease of use, performance, model variety, and integration with p5.js.
 
-3. Document your project in a blog post and add a link to your documentation to the [Assignment Wiki page](https://github.com/ml5js/Intro-ML-Arts-IMA-F24/wiki/Assignment-5). Remember to include visual documentation (screenshots, GIFs, etc) Also, please document what did and did not work! What errors did you encounter with Transformers.js?
+3. Document your sketch in a blog post and add a link to the [Assignment Wiki page](https://github.com/ml5js/Intro-ML-Arts-IMA-F24/wiki/Assignment-5). Remember to include visual documentation (screenshots, GIFs, etc) Also, please document what did and did not work! What errors did you encounter with Transformers.js?
