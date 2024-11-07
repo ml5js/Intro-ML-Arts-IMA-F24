@@ -22,6 +22,14 @@
 - 🔄 [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/pdf/1703.10593)
 - 🎭 [A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/pdf/1812.04948)
 
+## Diffusion Models
+
+### Readings
+
+- 📰 [Generative AI Has a Visual Plagiarism Problem](https://spectrum.ieee.org/midjourney-copyright)
+- 📚 [LAION-5B: A New Era of Open Large-Scale Multi-Modal Datasets](https://laion.ai/blog/laion-5b/) - An overview of the LAION-5B dataset by Romain Beaumont (2022).
+- 📊 [Models all the Way Down](https://knowingmachines.org/models-all-the-way) - A visual investigation into the construction of the LAION-5B dataset.
+
 ### Code Examples
 
 - 💻 [Progressive Noise Reduction in p5.js example](https://editor.p5js.org/ima_ml/sketches/nV5ZZReuY) - Demonstration of gradually reducing noise to reveal a target image, simulating how diffusion models denoise step-by-step.
