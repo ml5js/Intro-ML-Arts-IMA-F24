@@ -34,11 +34,11 @@ _This is a evolving document and is subject to change (lots of change!)_
 
 ### 9: [Language Models](07-llms) (10/31)
 
-### 10: Image Generation Models (11/7)
+### 10: [Image Generation Models](08-image-models) (11/7)
 
-### 11: Fine-Tuning Generative Models (11/14)
+### 11: Final Project Proposals + Fine-Tuning (11/14)
 
-### 12: Final Project Proposals Workshop (11/21)
+### 12: Final Project Proposals + TBD (11/21)
 
 ### 13: Final Project Play Testing (12/05)
 
