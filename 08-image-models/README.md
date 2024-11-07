@@ -2,8 +2,6 @@
 
 ## Autoencoders
 
-### Tutorials and Guides
-
 - 🎥 [What is an Autoencoder? | Two Minute Papers #86](https://youtu.be/Rdpbnd0pCiI)
 - 📋 [Building Autoencoders in Keras](https://blog.keras.io/building-autoencoders-in-keras.html)
 
@@ -30,14 +28,11 @@
 - 📚 [LAION-5B: A New Era of Open Large-Scale Multi-Modal Datasets](https://laion.ai/blog/laion-5b/) - An overview of the LAION-5B dataset by Romain Beaumont (2022).
 - 📊 [Models all the Way Down](https://knowingmachines.org/models-all-the-way) - A visual investigation into the construction of the LAION-5B dataset.
 
-### Code Examples
-
-- 💻 [Progressive Noise Reduction in p5.js example](https://editor.p5js.org/ima_ml/sketches/nV5ZZReuY) - Demonstration of gradually reducing noise to reveal a target image, simulating how diffusion models denoise step-by-step.
-
 ### Educational Resources
 
 - 📺 [Diffusion models explained in 4-difficulty levels](https://www.youtube.com/watch?v=yTAMrHVG1ew)
 - 📘 [Introduction to Diffusion Models for Machine Learning](https://www.assemblyai.com/blog/diffusion-models-for-machine-learning-introduction/)
+- 💻 [Progressive Noise Reduction in p5.js example](https://editor.p5js.org/ima_ml/sketches/nV5ZZReuY) - Demonstration of gradually reducing noise to reveal a target image, simulating how diffusion models denoise step-by-step.
 
 ### Research Papers
 
@@ -48,8 +43,7 @@
 
 ### Tools and Interfaces
 
-- 🌌 [Text-to-Image Collection on Replicate](https://replicate.com/collections/text-to-image) - A collection of text-to-image models hosted on Replicate, showcasing a variety of models that generate images from text prompts.
-
+- 🌌 [Text-to-Image Collection on Replicate](https://replicate.com/collections/text-to-image)
 - 🖥️ [Stable Diffusion WebUI by AUTOMATIC1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - A web-based interface for running Stable Diffusion models locally.
 - 🔧 [ComfyUI GitHub Repository](https://github.com/comfyanonymous/ComfyUI) - A modular and node-based UI for Stable Diffusion that allows users to experiment with model pipelines.
 
