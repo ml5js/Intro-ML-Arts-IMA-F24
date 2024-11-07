@@ -7,6 +7,11 @@
 
 ## Generative Adversarial Networks (GANs)
 
+### Educational Resources
+
+- 🎥 [StyleGAN: None of These Faces Are Real!](https://youtu.be/-cOYwZ2XcAc), 🎥 [StyleGAN2: Near-Perfect Human Face Synthesis...and More](https://youtu.be/SWoravHhsUU) from Two Minute Papers
+- 📊 [Overview of GAN Structure](https://developers.google.com/machine-learning/gan/gan_structure)
+
 ### Artistic Works
 
 - 🌿 [Leaves of Manifold by Helena Sarin](https://www.nvidia.com/en-us/research/ai-art-gallery/artists/helena-sarin)
