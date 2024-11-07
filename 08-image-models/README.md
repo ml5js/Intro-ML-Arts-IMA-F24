@@ -57,3 +57,5 @@
 _Examples are shared via email due to usage restrictions at ITP._
 
 ## Assignment
+
+- Create a final project proposal. See [final project guidelines](https://github.com/ml5js/Intro-ML-Arts-IMA-F24/tree/main/final). Check [your assigned proposal date and add your proposal to the course wiki](https://github.com/ml5js/Intro-ML-Arts-IMA-F24/wiki/Final-Proposals).
