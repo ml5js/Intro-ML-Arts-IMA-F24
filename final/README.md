@@ -1,6 +1,6 @@
 # Final Project
 
-Your final project is a four week assignment to be completed in three stages (proposal, development and testing, presentation). Proposals presentations will be 11/14 and 11/21 (class will be divided in half, [check the schedule on the wiki]()) Final project presentations will be **12/12**.
+Your final project is a four week assignment to be completed in three stages (proposal, development and testing, presentation). Proposals presentations will be 11/14 and 11/21 (class will be divided in half, [check the schedule on the wiki](https://github.com/ml5js/Intro-ML-Arts-IMA-F24/wiki/Final-Proposals)) Final project presentations will be **12/12**.
 
 The final project should be a creative project that builds off of or is inspired by the concepts we've covered this semester. You should feel free to think non-traditionally, projects do not need to be screen-based and there is no requirement to use a particular programming language or machine learning model.
 
