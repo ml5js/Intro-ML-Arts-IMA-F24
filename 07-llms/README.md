@@ -63,6 +63,7 @@ _Examples will be shared over email due to use of ITP proxy server._
 _These examples require working with p5.js locally on your computer and outside of the web editor. Some resources for doing so can be found in [my workflow video series](https://thecodingtrain.com/tracks/2018-workflow)._
 
 - 🦙 [Ollama: Run LLMs locally](https://ollama.ai/)
+- [Ollama chat completion API](https://github.com/ollama/ollama/blob/main/docs/api.md#generate-a-chat-completion)
 - 💻 [Ollama with JavaScript](https://github.com/Programming-from-A-to-Z/Ollama-Examples)
 
 ### Transformers.js
