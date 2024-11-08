@@ -53,5 +53,5 @@ Final Project presentations are demonstrations and do not require a slide deck, 
 - Audience/Context: Who is this for? How will people experience it? Is it interactive? Is it practical? Is it for fun? Is it emotional? Is it to provoke something?
 - User testing: What was the result of user testing? How did you apply any feedback?
 - Source code
-- Code references: What examples, tutorials, references did you use to create the project? (You must cite the source of any code you use in code comments. Please note the following additional expectations and guidelines at the bottom of this page.)
+- Code references: What examples, tutorials, references did you use to create the project? (You should cite the source of any code you use in code comments with the exception of examples specifically provided by me for the class.)
 - Next steps: If you had more time to work on this, what would you do next?
