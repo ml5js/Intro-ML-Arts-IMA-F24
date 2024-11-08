@@ -54,7 +54,17 @@
 
 ## Code Examples and Implementations
 
+### Diffusion Models on Replicate
+
 _Examples are shared via email due to usage restrictions at ITP._
+
+### Generating images with sd-webui
+
+- 💻 [in class sd-webui example with ITP GPU machine](sd-webui) _(remember, this only works on the NYU network or VPN!)_
+
+### Transformers.js
+
+- 💻 [Janus-1.3B-onnx](https://editor.p5js.org/ima_ml/sketches/buN5nGipW) _(this is using an unreleased alpha version of transformers.js, proceed with caution!)_
 
 ## Assignment
 

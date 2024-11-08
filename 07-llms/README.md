@@ -64,6 +64,7 @@ _These examples require working with p5.js locally on your computer and outside 
 
 - 🦙 [Ollama: Run LLMs locally](https://ollama.ai/)
 - [Ollama chat completion API](https://github.com/ollama/ollama/blob/main/docs/api.md#generate-a-chat-completion)
+- 💻 [In class Ollama test](ollama)
 - 💻 [Ollama with JavaScript](https://github.com/Programming-from-A-to-Z/Ollama-Examples)
 
 ### Transformers.js
