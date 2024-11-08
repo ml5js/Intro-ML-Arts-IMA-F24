@@ -60,7 +60,7 @@ _Examples are shared via email due to usage restrictions at ITP._
 
 ### Generating images with sd-webui
 
-- 💻 [in class sd-webui example with ITP GPU machine](sd-webui) _(remember, this only works on the NYU network or VPN!)_
+- 💻 [in class sd-webui example with ITP GPU machine](sd-webui) _(remember, this only works outside the p5.js web editor and on the NYU network or VPN!)_
 
 ### Transformers.js
 
