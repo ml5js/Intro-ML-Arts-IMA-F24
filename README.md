@@ -36,9 +36,9 @@ _This is a evolving document and is subject to change (lots of change!)_
 
 ### 10: [Image Generation Models](08-image-models) (11/7)
 
-### 11: [Final Project Proposals](final) + Fine-Tuning (11/14)
+### 11: [Final Project Proposals](final) + [Fine-Tuning](09-finetuning) (11/14)
 
-### 12: [Final Project Proposals](final) + TBD (11/21)
+### 12: [Final Project Proposals](final) + [Fine-Tuning](09-finetuning) (11/21)
 
 ### 13: [Final Project Play Testing](final) (12/05)
 
