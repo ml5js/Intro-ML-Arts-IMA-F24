@@ -11,7 +11,7 @@
 
 - [Fine-Tune FLUX.1 to Create Images of Yourself on Replicate](https://replicate.com/blog/fine-tune-flux-with-faces)
 - [Collection of FLUX Fine-Tunes on Replicate](https://replicate.com/blog/fine-tune-flux-with-faces)
-- [Glitch Project to Use a Fine-Tuned Model with p5.js](https://glitch.com/edit/#!/replicate-fine-tuned-model)
+- Glitch Project to Use a Fine-Tuned Model with p5.js - [model demo](https://replicate-fine-tuned-model.glitch.me), [source code](https://glitch.com/edit/#!/replicate-fine-tuned-model)
 
 ## Fine-Tuning a Large Language Model (LLM)
 
